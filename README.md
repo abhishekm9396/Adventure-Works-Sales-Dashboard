@@ -59,4 +59,8 @@ Customer Detail
 ![AdventureWorks _PBI-Dashboard_page-0003](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/af8ac168-f32d-43f0-8603-f76f60945cbd)
 
 
+**Challenges Faced**
+1. Dealing with missing or incomplete data
+2. Creating effective visualizations to communicate insights to stakeholders
+3. Overcoming technical issues with Power BI, such as formatting or visualization challenges
 
