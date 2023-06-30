@@ -1,15 +1,9 @@
-# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Adventure Works Sales - Dashboard**
+# **Adventure Works Sales - Dashboard**
 
 Superstore is a sample sales data for creating the visualization in tableau. It consist the sales data of different categories and sub-categories for the states in USA. Interactive dashboard with actions and filters is being created to analyse the sales and other metrics like profit , profit ratio, quantity etc. For better visualization dyanmic charts have been created to show the relationship between different entities. 
 <br>
 <br>
 
-
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
-
-| Files/Folder| Description |
-| ------------- | ------------- |
-| **CSV Files** | This folder provides Adventure Works sample dataset used in the project  |
 
 
 <br>
@@ -17,7 +11,7 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
 <p align="center"><img src="https://user-images.githubusercontent.com/108053296/185891243-32560776-7dcb-4e41-a16b-5daab211b6c1.gif" width="400" ></p>
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+##  Analysis
    
     o	KPI’s :-
                 o  Total Sales
@@ -38,11 +32,9 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
     o Manufacturer per city in USA
 
 
-
-
 <br>
 
-## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
+## Methodology
 
     1. Imported the dataset in power-bi and did a bit of cleaning.
  
@@ -55,5 +47,16 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
     5. Used some of the formatting options for better visualization.
     
     6. Created a interactive and dynamic dashboard at the end.
+
+**Screenshots**
+<br>
+<br>
+Executive Summary
+![AdventureWorks _PBI-Dashboard_page-0001](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/445b2f32-b66f-421f-89d5-3677d37e7ed6)
+Product Detail
+![AdventureWorks _PBI-Dashboard_page-0002](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/9bf38a20-e1fa-4b27-a52c-09ee79a4e071)
+Customer Detail
+![AdventureWorks _PBI-Dashboard_page-0003](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/af8ac168-f32d-43f0-8603-f76f60945cbd)
+
 
 
