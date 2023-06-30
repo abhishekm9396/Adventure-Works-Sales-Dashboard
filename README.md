@@ -1,6 +1,6 @@
 # **Adventure Works Sales - Dashboard**
 
-Superstore is a sample sales data for creating the visualization in tableau. It consist the sales data of different categories and sub-categories for the states in USA. Interactive dashboard with actions and filters is being created to analyse the sales and other metrics like profit , profit ratio, quantity etc. For better visualization dyanmic charts have been created to show the relationship between different entities. 
+This is a Power BI interactive dashboard for Adventure Works company, displaying sales, revenue, and customer demographics. It's designed to provide users with an intuitive interface to explore data insights easily.
 <br>
 <br>
 
