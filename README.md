@@ -9,7 +9,7 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset Folder** | This folder provides Adventure Works sample dataset used in the project  |
+| **CSV Files** | This folder provides Adventure Works sample dataset used in the project  |
 
 
 <br>
