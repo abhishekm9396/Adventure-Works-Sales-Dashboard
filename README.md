@@ -40,12 +40,6 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
 
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
-![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg)
-
-
-
 <br>
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
@@ -62,12 +56,4 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
     
     6. Created a interactive and dynamic dashboard at the end.
 
-
-
-
-
-
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-https://public.tableau.com/shared/4K47ZYHS6?:display_count=n&:origin=viz_share_link
 
