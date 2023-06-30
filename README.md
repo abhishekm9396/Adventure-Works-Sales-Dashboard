@@ -8,7 +8,9 @@ This is a Power BI interactive dashboard for Adventure Works company, displaying
 
 <br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185891243-32560776-7dcb-4e41-a16b-5daab211b6c1.gif" width="400" ></p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/108053296/185891243-32560776-7dcb-4e41-a16b-5daab211b6c1.gif" width="400" >
+</p>
 
 
 ##  Analysis
@@ -51,13 +53,18 @@ This is a Power BI interactive dashboard for Adventure Works company, displaying
 **Screenshots**
 <br>
 <br>
-Executive Summary
-![AdventureWorks _PBI-Dashboard_page-0001](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/445b2f32-b66f-421f-89d5-3677d37e7ed6)
-Product Detail
-![AdventureWorks _PBI-Dashboard_page-0002](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/9bf38a20-e1fa-4b27-a52c-09ee79a4e071)
-Customer Detail
-![AdventureWorks _PBI-Dashboard_page-0003](https://github.com/abhishekm9396/Adventure-Works-Sales-Dashboard/assets/126942017/af8ac168-f32d-43f0-8603-f76f60945cbd)
-
+Executive Summary:
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/126942017/250154080-445b2f32-b66f-421f-89d5-3677d37e7ed6.jpg" width="800" >
+</p>
+Product Detail:
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/126942017/250154149-9bf38a20-e1fa-4b27-a52c-09ee79a4e071.jpg" width="800" >
+</p>
+Customer Detail:
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/126942017/250154212-af8ac168-f32d-43f0-8603-f76f60945cbd.jpg" width="800" >
+</p>
 
 **Challenges Faced**
 1. Dealing with missing or incomplete data
