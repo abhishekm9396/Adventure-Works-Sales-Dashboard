@@ -14,6 +14,14 @@ This is a Power BI interactive dashboard for Adventure Works company, displaying
 
 <br>
 
+##  Data Description
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **CSV Files** | This folder contains the excel worksheets of AW Sales: Sales(2015-17), Calender, Customers, Territories, Products, Product Categories & Sub-categories, Return details |
+| **Dashboard PBIX** | This file contains final dashboards created with Microsoft Power BI |
+<br>
+
 ## Methodology
 
 1. Connect PowerBI to Excel Data to Load and Transform data in PowerQuery
